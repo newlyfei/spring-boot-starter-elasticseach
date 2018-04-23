@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cn.hycun.spring</groupId>
-	<artifactId>spring-boot-starter-elasticseach</artifactId>
+	<artifactId>spring-boot-starter-elasticsearch</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-starter-elasticseach</name>
+	<name>spring-boot-starter-elasticsearch</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
